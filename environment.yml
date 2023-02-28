@@ -1,0 +1,38 @@
+name: mldd23
+channels:
+  - pyg
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - biopython>=1.81
+  - black>=23.1.0
+  - bokeh>=3.0.3
+  - chembl_webresource_client>=0.10.8
+  - cpuonly>=2.0
+  - isort>=5.12.0
+  - jupyter>=1.0.0
+  - matplotlib>=3.7.0
+  - notebook>=6.5.2
+  - numpy>=1.24.0
+  - openbabel>=3.1.1
+  - pandas>=1.5.0
+  - pip>=23.0.1
+  - prolif>=1.1.0
+  - py3dmol=2.0.1.post1
+  - pyg>=2.1.0,<3.0.0
+  - pymol-open-source>=2.5.0
+  - pypdb>=2.2,<3.0
+  - pytdc>=0.3.8
+  - pytest>=7.2.1
+  - python>=3.9.0,<3.10.0
+  - pytorch>=1.12.0,<2.0.0
+  - pyyaml>=6.0
+  - qvina>=2.1.0
+  - rdkit>=2022.03.5
+  - scikit-learn=1.2.1
+  - scipy>=1.10.1
+  - seaborn>=0.12.2
+  - smina>=2020.12.10
+  - tqdm>=4.64.1
+  - yaml>=0.2.5
