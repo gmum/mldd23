@@ -30,11 +30,12 @@ Python will be used throughout the course. The environment setup steps are shown
 
 1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) following the instructions for your operating system.
 2. Download this repository: `git clone https://github.com/gmum/mldd23.git`.
-3. Install environment from the YAML file: `conda env create -f environment.yml`
+   - You need to have [Git](https://git-scm.com/) installed.
+3. Install environment from the YAML file: `conda env create -f environment.yml` (or `conda env create -f environment-gpu.yml` for the GPU version).
 
 In the `environments` directory, you can find environment files with the exact versions of packages for each operating system (including a GPU environment for Windows).
 
-_Important! If you would like to use your GPU to train neural networks, replace the `cpuonly` line with `pytorch-cuda={cuda version}` in the `environment.yml` file. The current CUDA version is 11.7, but you should check your graphics card compatibility first._
+_Important! If you would like to use your GPU to train neural networks, update the line `pytorch-cuda={cuda version}` in the `environment-gpu.yml` file. The current CUDA version is 11.7, but you should check your graphics card compatibility first._
 
 ## Literature
 
