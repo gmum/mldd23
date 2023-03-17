@@ -7,7 +7,13 @@ This repository contains course materials for the course "Machine Learning in Dr
     - Vector representations of molecules: descriptors and fingerprints
     - Introduction to RDKit
     - Classical ML models: Linear Regression, Random Forest, Support Vector Machines
-2. ???
+2. Exploration of publicly available small molecule datasets
+    - ChEMBL database of bioactive molecules
+    - ZINC database of purchasable molecules
+    - PubChem database of chemical information about small molecules
+    - Exploratory Data Analysis (EDA)
+    - Quantitative Structure-Activity Relationship (QSAR) and Virtual Screening (VS)
+3. ???
 
 ## About us
 
