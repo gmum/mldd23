@@ -15,6 +15,13 @@ This repository contains course materials for the course "Machine Learning in Dr
     - Quantitative Structure-Activity Relationship (QSAR) and Virtual Screening (VS)
 3. ???
 
+## Lectures
+
+The lecture slides and notes are in the `lectures` directory.
+The machine learning lecture is deployed online at:
+
+[gmum.github.io/mldd23/lectures/machine-learning.html](https://gmum.github.io/mldd23/lectures/machine-learning.html#/)
+
 ## About us
 
 [GMUM](https://gmum.net/) (Machine Learning Research Group) is a group at the Jagiellonian University working on various aspects of machine learning, and in particular deep learning - in both fundamental and applied settings. The group is led by prof. Jacek Tabor.
