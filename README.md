@@ -19,7 +19,14 @@ This repository contains course materials for the course "Machine Learning in Dr
     - Message passing neural networks
     - Graph convolutional neural networks
     - Explainability: Grad-CAM
-4. ???
+4. Molecular docking
+    - Molecular data formats: SMI, SDF, MOL2, PDB
+    - Force fields
+    - Protein folding
+    - Molecular docking with AutoDock Vina, Smina, QuickVina
+    - Interaction fingerprints
+    - Pharmacophores
+5. ???
 
 ## Lectures
 
