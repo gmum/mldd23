@@ -26,7 +26,13 @@ This repository contains course materials for the course "Machine Learning in Dr
     - Molecular docking with AutoDock Vina, Smina, QuickVina
     - Interaction fingerprints
     - Pharmacophores
-5. ???
+5. Deep generative models
+    - Autoencoders
+    - Recurrent neural networks
+    - SMILES generators: ReLeaSE
+    - Graph-based generative models: JT-VAE
+    - Reinforcement learning and Bayesian optimization for molecular property optimization
+6. ???
 
 ## Lectures
 
