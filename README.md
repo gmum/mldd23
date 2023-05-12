@@ -32,7 +32,12 @@ This repository contains course materials for the course "Machine Learning in Dr
     - SMILES generators: ReLeaSE
     - Graph-based generative models: JT-VAE
     - Reinforcement learning and Bayesian optimization for molecular property optimization
-6. ???
+6. Protein deep learning
+    - Simplified protein graph representations
+    - Voxel grid representation
+    - Mesh representation for encoding protein surface
+    - 3D convolutional neural networks for encoding proteins
+7. ???
 
 ## Lectures
 
