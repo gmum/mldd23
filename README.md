@@ -37,7 +37,9 @@ This repository contains course materials for the course "Machine Learning in Dr
     - Voxel grid representation
     - Mesh representation for encoding protein surface
     - 3D convolutional neural networks for encoding proteins
-7. ???
+7. Uncertainty prediction
+    - Aleatoric and epistemic uncertainty
+    - Conformal prediction
 
 ## Lectures
 
